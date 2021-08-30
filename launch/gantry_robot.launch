@@ -7,6 +7,6 @@
     	<arg name="user_name" value="kajuha"/>
 	</include>
 
-	<include file="$(find gantry_robot)/launch/base.launch">
+	<include file="$(find gantry_robot)/launch/gantry_robot_preset.launch">
 	</include>
 </launch>
